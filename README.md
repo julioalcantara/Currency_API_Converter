@@ -1,4 +1,4 @@
-<strong>Assignment Introduction<strong>
+Assignment Introduction
 You have been assigned to develop a simple mobile application using Phonegap to convert a given amount of American dollars to another currency of your choice (not the user’s) using a real time conversion rate from an external API. 
 
 Specific Requirements 
